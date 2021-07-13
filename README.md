@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/3879613/125519551-d46b63ee-50c5-4ead-be19-a911043df2a6.png)
 
-# MCE - Case 1 - CRUD de cadastros de usuários - Backend Node/Express.js
+# MCE - Case 1 - CRUD de cadastros de usuários - Frontend Mobile
 
 Primeiro case do programa [Mind Coding Experience(MCE)](https://conteudos.provi.com.br/mind-coding-experience/), feito pela [Mind Consulting](https://mindconsulting.com.br/) em parceria com a fintech [Provi](https://provi.com.br), com o intuito de evoluir as habilidades técnicas participando de projetos e recebendo acompanhamento de profissionais sêniores do mercado.
 
